@@ -1,10 +1,3 @@
-# Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
-
-* Студент: [Анна Зуева](https://up.htmlacademy.ru/react/6/user/642335).
-* Наставник: `Неизвестно`.
-
----
-
 _Не удаляйте и не изменяйте папки и файлы:_
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `.travis.yml`, `package.json`._
 
